@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 * {
-  font-family: 'poppins';
+  font-family: 'poppins',sans-serif;
 }
 
 ::-webkit-scrollbar-track {
